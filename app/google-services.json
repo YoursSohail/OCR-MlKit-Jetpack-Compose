@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "534380943179",
+    "project_id": "jcmlkit",
+    "storage_bucket": "jcmlkit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534380943179:android:9ad558dcd78cbe8b1dbace",
+        "android_client_info": {
+          "package_name": "com.sohail.jctextrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534380943179-1ari88iesj495tpjlqvaln1sg94lhvn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa0mnpPxUJ4K4y1P_lutNcin5Wxky8Pf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534380943179-1ari88iesj495tpjlqvaln1sg94lhvn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
